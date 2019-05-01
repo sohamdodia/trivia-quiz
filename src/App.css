@@ -1,0 +1,11 @@
+body {
+  margin: 60px;
+}
+
+
+.header {
+  background: #282c34;
+  color: #ffffff;
+  height: 50px;
+  text-align: center;
+}
